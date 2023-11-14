@@ -1,0 +1,19 @@
+{
+    "name": "dell/permission-form-plugin",
+    "description": "starter permission form plugin example",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "bukiyebarak",
+            "email": "bukiyebarak810@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
